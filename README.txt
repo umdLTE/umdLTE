@@ -1,4 +1,4 @@
-This is an open source project -Dlte, started by Telecommunication graduates at the University of Maryland,College park.
+This is an open source project - UMDlte, started by Telecommunication graduates at the University of Maryland,College park.
 It's a feature enhancement project of srsLTE - open-source LTE software suite developed by SRS (www.softwareradiosystems.com).
 
 It includes:
